@@ -1,0 +1,28 @@
+option_trading_server/node_modules
+option_trading_client/node_modules
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+option_trading_client/node_modules
+option_trading_client/.pnp
+option_trading_client/.pnp.js
+
+# testing
+option_trading_client/coverage
+
+# production
+option_trading_client/build
+
+# misc
+option_trading_client/.DS_Store
+option_trading_client/.env.local
+option_trading_client/.env.development.local
+option_trading_client/.env.test.local
+option_trading_client/.env.production.local
+
+option_trading_client/npm-debug.log*
+option_trading_client/yarn-debug.log*
+option_trading_client/yarn-error.log*
