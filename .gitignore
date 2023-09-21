@@ -26,3 +26,5 @@ option_trading_client/.env.production.local
 option_trading_client/npm-debug.log*
 option_trading_client/yarn-debug.log*
 option_trading_client/yarn-error.log*
+
+*/.env
